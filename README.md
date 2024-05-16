@@ -1,0 +1,2 @@
+# ECommerece
+An e-commerce API that utilizes nine design patterns: FACTORY METHOD, PROTOTYPE, BUILDER, PROXY, FACADE, ADAPTER, CHAIN OF RESPONSABILITY, MEDIATOR, COMMAND
