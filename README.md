@@ -19,3 +19,10 @@ Facade: Ecommerce.BL>DbServices>ProductRepository.cs & Ecommerce.Api>Controllers
    simplificată pentru metodele de gestionare a produselor.
 
 Adapter: Ecommerce.BL>Adapter>ProductAdapter.cs & Service>OrderService.cs
+     - mapează entitatea Product în DTO și invers, pentru a fi adaptată procesării către și dinspre baza de date.
+
+Chain of Responsability: Ecommerce.Api>Middleware
+     - implimentarea Exception middleware
+
+Mediator & Command: Ecommerce.BL>Commands>CreateEmptyCartCommand.cs & Ecommerce.Api>Controllers>CartsController.cs
+     - Mediator gestionează interacțiunea dintre comanda primită de la controller-ul (CartsController) și serviciile acestuia. Comanda la rândul ei este o implimentare a șablonului Command, respectiv aceste două șabloane se suplinesc unul pe altul. Când Controller-ul trimite o cerere de adăugare sau eliminare a unor produse din coș, acea cerere este împachetată într-un obiect, iar mediatorul decide unde să o trimită pentru execuție
