@@ -1,0 +1,141 @@
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/appsettings.json
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Ecommerce.Api
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Ecommerce.Api.deps.json
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Ecommerce.Api.runtimeconfig.json
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Ecommerce.Api.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Ecommerce.Api.pdb
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Ecommerce.BL.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Ecommerce.Core.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Ecommerce.BL.pdb
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Ecommerce.Core.pdb
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.csproj.AssemblyReference.cache
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.AssemblyInfoInputs.cache
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.AssemblyInfo.cs
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.csproj.CoreCompileInputs.cache
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/staticwebassets/msbuild.Ecommerce.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Ecommerce.Api.props
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Ecommerce.Api.props
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Ecommerce.Api.props
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/scopedcss/bundle/Ecommerce.Api.styles.css
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.csproj.CopyComplete
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/refint/Ecommerce.Api.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.pdb
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/Ecommerce.Api.genruntimeconfig.cache
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/obj/Debug/net7.0/ref/Ecommerce.Api.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/MediatR.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Npgsql.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.Api/bin/Debug/net7.0/AutoMapper.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\appsettings.json
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Ecommerce.Api.exe
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Ecommerce.Api.deps.json
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Ecommerce.Api.runtimeconfig.json
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Ecommerce.Api.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Ecommerce.Api.pdb
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\AutoMapper.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Azure.Core.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\MediatR.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Npgsql.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Ecommerce.BL.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Ecommerce.Core.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Ecommerce.BL.pdb
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Ecommerce.Core.pdb
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.csproj.AssemblyReference.cache
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.AssemblyInfoInputs.cache
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.AssemblyInfo.cs
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.csproj.CoreCompileInputs.cache
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce.Api.props
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.Api.props
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce.Api.props
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\scopedcss\bundle\Ecommerce.Api.styles.css
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerc.5A66FF47.Up2Date
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\refint\Ecommerce.Api.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.pdb
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\Ecommerce.Api.genruntimeconfig.cache
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\obj\Debug\net7.0\ref\Ecommerce.Api.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.Api\bin\Debug\net7.0\Community.AspNetCore.ExceptionHandling.dll

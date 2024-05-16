@@ -1,0 +1,83 @@
+﻿<Properties StartupConfiguration="{3D5B1158-6E48-4CEA-A080-66DC6CD230CD}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ecommerce.Api/Program.cs">
+    <Files>
+      <File FileName="Ecommerce.Core/Entities/Product.cs" Line="19" Column="2" />
+      <File FileName="Ecommerce.Core/Entities/Order.cs" Line="9" Column="15" />
+      <File FileName="Ecommerce.Core/Entities/User.cs" />
+      <File FileName="Ecommerce.Api/Controllers/ProductsController.cs" Line="23" Column="6" />
+      <File FileName="Ecommerce.Api/Controllers/OrderController.cs" Line="71" Column="1" />
+      <File FileName="Ecommerce.Api/Controllers/UserController.cs" />
+      <File FileName="Ecommerce.Core/Entities/Cart.cs" Line="11" Column="33" />
+      <File FileName="Ecommerce.Core/Enums/Category.cs" />
+      <File FileName="Ecommerce.Core/Entities/PaymentDetails.cs" Line="10" Column="47" />
+      <File FileName="Ecommerce.Core/Enums/PaymentStatus.cs" />
+      <File FileName="Ecommerce.BL/Services/OrderService.cs" />
+      <File FileName="Ecommerce.BL/DbServices/ProductRepository.cs" Line="16" Column="6" />
+      <File FileName="Ecommerce.BL/DbServices/AppDbContext.cs" />
+      <File FileName="Ecommerce.Api/Middleware/ExceptionMiddleware.cs" Line="27" Column="32" />
+      <File FileName="Ecommerce.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="Ecommerce.Api/Program.cs" Line="70" Column="69" />
+      <File FileName="Ecommerce.Core/PaymentFactory/EmptyClass.cs" />
+      <File FileName="Ecommerce.BL/Services/CartService.cs" />
+      <File FileName="Ecommerce.Core/Enums/Status.cs" />
+      <File FileName="Ecommerce.Core/Enums/UnitType.cs" />
+      <File FileName="Ecommerce.BL/Interfaces/Services/IOrderService.cs" />
+      <File FileName="Ecommerce.BL/Interfaces/IProductRepository.cs" />
+      <File FileName="Ecommerce.BL/Interfaces/Services/ICartService.cs" />
+      <File FileName="Ecommerce.BL/Dto/UserLoginDto.cs" />
+      <File FileName="Ecommerce.BL/Dto/UserRegisterDto.cs" />
+      <File FileName="Ecommerce.Api/Controllers/AuthenticationExtension.cs" Line="14" Column="12" />
+      <File FileName="Ecommerce.Api/Controllers/AuthorizationExtension.cs" />
+      <File FileName="Ecommerce.BL/Services/JwtProvider.cs" />
+      <File FileName="Ecommerce.BL/Interfaces/IUserRepository.cs" />
+      <File FileName="Ecommerce.Core/JwtOptions.cs" />
+      <File FileName="Ecommerce.Core/UserProfile.cs" />
+      <File FileName="Ecommerce.BL/Services/PasswordHasher.cs" />
+      <File FileName="Ecommerce.BL/Services/UserRepository.cs" />
+      <File FileName="Ecommerce.BL/Services/UserService.cs" />
+      <File FileName="Ecommerce.BL/Dto/ProductDto.cs" Line="21" Column="1" />
+      <File FileName="Ecommerce.BL/Services/MappingProfile.cs" />
+      <File FileName="Ecommerce.Api/Controllers/CartsController.cs" />
+      <File FileName="Ecommerce.BL/Dto/CartDto.cs" />
+      <File FileName="Ecommerce.BL/Dto/OrderDto.cs" />
+      <File FileName="Ecommerce.BL/Services/MyProfileService.cs" />
+      <File FileName="Ecommerce.BL/Services/ShoppingCartBuilder.cs" />
+      <File FileName="Ecommerce.BL/Services/ICartBuilder.cs" />
+      <File FileName="Ecommerce.BL/Services/IOrderPrototype.cs" />
+      <File FileName="Ecommerce.BL/Services/OrderPrototype.cs" />
+      <File FileName="Ecommerce.BL/Commands/CreateEmptyCartCommand.cs" />
+      <File FileName="Ecommerce.BL/Interfaces/Services/IJwtProvider.cs" />
+      <File FileName="Ecommerce.BL/Interfaces/Services/IMyProfileService.cs" />
+      <File FileName="Ecommerce.BL/Interfaces/Services/IPasswordHasher.cs" />
+      <File FileName="Ecommerce.Api/Adapter/EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="Ecommerce.BL/Adapter/EmptyClass.cs" Line="4" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ecommerce" expanded="True">
+            <Node name="Ecommerce.Api">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Middleware" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Ecommerce.BL">
+              <Node name="DbServices" expanded="True" />
+              <Node name="Dto" expanded="True" />
+            </Node>
+            <Node name="Ecommerce.Core" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ecommerce.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

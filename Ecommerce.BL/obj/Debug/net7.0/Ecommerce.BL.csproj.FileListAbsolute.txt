@@ -1,0 +1,30 @@
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/bin/Debug/net7.0/Ecommerce.BL.deps.json
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/bin/Debug/net7.0/Ecommerce.BL.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/bin/Debug/net7.0/Ecommerce.BL.pdb
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/bin/Debug/net7.0/Ecommerce.Core.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/bin/Debug/net7.0/Ecommerce.Core.pdb
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/Ecommerce.BL.csproj.AssemblyReference.cache
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/Ecommerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/Ecommerce.BL.AssemblyInfoInputs.cache
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/Ecommerce.BL.AssemblyInfo.cs
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/Ecommerce.BL.csproj.CoreCompileInputs.cache
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/Ecommerce.BL.csproj.CopyComplete
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/Ecommerce.BL.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/refint/Ecommerce.BL.dll
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/Ecommerce.BL.pdb
+/Users/anaprodan/Desktop/ProiectMihai/Ecommerce/Ecommerce.BL/obj/Debug/net7.0/ref/Ecommerce.BL.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\bin\Debug\net7.0\Ecommerce.BL.deps.json
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\bin\Debug\net7.0\Ecommerce.BL.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\bin\Debug\net7.0\Ecommerce.BL.pdb
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\bin\Debug\net7.0\Ecommerce.Core.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\bin\Debug\net7.0\Ecommerce.Core.pdb
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\Ecommerce.BL.csproj.AssemblyReference.cache
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\Ecommerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\Ecommerce.BL.AssemblyInfoInputs.cache
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\Ecommerce.BL.AssemblyInfo.cs
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\Ecommerce.BL.csproj.CoreCompileInputs.cache
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\Ecommerc.F5F86D22.Up2Date
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\Ecommerce.BL.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\refint\Ecommerce.BL.dll
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\Ecommerce.BL.pdb
+D:\Universitate\TI-216\Anul_3\Semestrul 6\Tehnici si mecanisme de proiectare a produselor program\ProiectCurs\Ecommerce.v4\Ecommerce\Ecommerce.BL\obj\Debug\net7.0\ref\Ecommerce.BL.dll
